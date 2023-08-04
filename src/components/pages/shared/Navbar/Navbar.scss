@@ -1,0 +1,17 @@
+.navbar{
+  text-align: right;
+  background-color: bisque;
+  a{
+    display: inline-block;
+    text-decoration: none;
+    margin-block: 5px;
+    margin-right: 30px;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 50px;
+    box-shadow: 0 0 3px 0 rgb(63, 63, 63);
+  }
+  .active{
+    background-color: aquamarine;
+  }
+}
